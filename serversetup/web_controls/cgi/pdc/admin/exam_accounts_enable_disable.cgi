@@ -50,7 +50,7 @@ DATA=`cat | tr -cd 'A-Za-z0-9\._:\-+'`
 
 #Generate navigation bar
 /opt/karoshi/web_controls/generate_navbar_admin
-echo '<div id="actionbox"><b>'$"Enable - Disable all exam accounts"'</b>'
+echo '<div id="actionbox"><b>'$"Enable - Disable all exam accounts"'</b><br><BR>'
 #########################
 #Assign data to variables
 #########################
